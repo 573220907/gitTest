@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("HotFix 冲突版本");
         System.out.println("push test");
          System.out.println("pull test");
+        System.out.println("pull test111111");
     }
 }
